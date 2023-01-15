@@ -7,7 +7,7 @@ Part of the [Interview Simulator](https://github.com/mariagarcia466/Interview-Si
 I honestly do not know how to use Flask for debug or production, good luck
 
 # Documentation
-There's really only one input here.
+There's really only one route here.
 
 ## /analyze
 
