@@ -3,6 +3,9 @@ I dislike Flask, but I dislike C# even more. An API wrapper for [Cohere's](https
 
 Part of the [Interview Simulator](https://github.com/mariagarcia466/Interview-Sim) project done for SheHacks+ 7.
 
+# How to run
+I honestly do not know how to use Flask for debug or production, good luck
+
 # Documentation
 There's really only one input here.
 
